@@ -1,0 +1,6 @@
+framework module KHMPushNotif {
+  umbrella header "KHMPushNotif.h"
+
+  export *
+  module * { export * }
+}
